@@ -12,4 +12,4 @@ var array = ["a"];
     return array[0].length;
 }
 
-longestWord("What if we try a super-long word such as otorhinolaryngology");
+longestWord("What is the Longest word in this sentence");
