@@ -8,7 +8,7 @@ function titleCase(str) {
     array=array+str[i][0].toUpperCase() +string.toLowerCase()+" " ;
   
   }
-return array.trim();
+return array.trim();//this is to clear the extra space created at the end of last word.
 }
 
 
